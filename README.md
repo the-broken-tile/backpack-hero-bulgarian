@@ -7,4 +7,4 @@ cp .\bulgarian.csv 'C:\Program Files (x86)\Steam\steamapps\common\Backpack Hero\
 **Versioning:**
 
 - Latest version: `0.19.4`
-- Bulgarian Version: `0.19.3`
+- Bulgarian Version: `0.19.4`
