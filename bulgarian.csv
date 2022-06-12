@@ -974,7 +974,7 @@ item status effects,is1,This item is disabled,Този предмет не мо�
 effect,base,Base,Базово,
 ,m1,This item gets permanent /x damage,Този предмет получава /x постоянна щета,
 modifiers,m2,This item is destroyed,Този предмет ще се унищожи,
-,m3,Adjacent curses are destroyed,Съседни проклятие се унищожават,
+,m3,Adjacent curses are destroyed,Ушищожава съседни проклятия,
 ,m4,This item gets /x damage to enemy,Този предмет получава /x щета срещу противници,
 ,m5,This item gets /x damage to self,Този предмет получава /x щета по себе си,
 ,m6,This item gets /x damage,Този предмет получава /x щета,
